@@ -1,0 +1,15 @@
+C:\Users\Mariela\source\repos\Sudoku2\Sudoku2\obj\Debug\Sudoku2.csprojAssemblyReference.cache
+C:\Users\Mariela\source\repos\Sudoku2\Sudoku2\obj\Debug\MainWindow.g.cs
+C:\Users\Mariela\source\repos\Sudoku2\Sudoku2\obj\Debug\App.g.cs
+C:\Users\Mariela\source\repos\Sudoku2\Sudoku2\obj\Debug\Sudoku2_MarkupCompile.cache
+C:\Users\Mariela\source\repos\Sudoku2\Sudoku2\obj\Debug\Sudoku2_MarkupCompile.lref
+C:\Users\Mariela\source\repos\Sudoku2\Sudoku2\bin\Debug\Sudoku2.exe.config
+C:\Users\Mariela\source\repos\Sudoku2\Sudoku2\bin\Debug\Sudoku2.exe
+C:\Users\Mariela\source\repos\Sudoku2\Sudoku2\bin\Debug\Sudoku2.pdb
+C:\Users\Mariela\source\repos\Sudoku2\Sudoku2\obj\Debug\MainWindow.baml
+C:\Users\Mariela\source\repos\Sudoku2\Sudoku2\obj\Debug\Sudoku2.g.resources
+C:\Users\Mariela\source\repos\Sudoku2\Sudoku2\obj\Debug\Sudoku2.Properties.Resources.resources
+C:\Users\Mariela\source\repos\Sudoku2\Sudoku2\obj\Debug\Sudoku2.csproj.GenerateResource.cache
+C:\Users\Mariela\source\repos\Sudoku2\Sudoku2\obj\Debug\Sudoku2.csproj.CoreCompileInputs.cache
+C:\Users\Mariela\source\repos\Sudoku2\Sudoku2\obj\Debug\Sudoku2.exe
+C:\Users\Mariela\source\repos\Sudoku2\Sudoku2\obj\Debug\Sudoku2.pdb
